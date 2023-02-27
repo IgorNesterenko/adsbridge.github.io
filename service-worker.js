@@ -436,4 +436,3 @@
   }), self.addEventListener("updatefound", function () {
     console.log("onupdate found")
   });
-</script>
